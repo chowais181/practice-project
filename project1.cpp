@@ -6,5 +6,6 @@ int main()
   {
 cout<<"How are you!"<<endl;
   }
-system("paause>0")
+system("paause>0");
+
 }
